@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\paula.bastos\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\xampp\htdocs\android-projects\android-custom-weather-app\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0-ce211c2a0e7860096205e12688e8d2d02bbbc953.jar" />
+    </item>
+    <item
+        jar="C:\Users\paula.bastos\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\xampp\htdocs\android-projects\android-custom-weather-app\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-ad0ca10724346bfba8af9d970071c3dc00ba17ec.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\android-projects\android-weather-app\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\xampp\htdocs\android-projects\android-weather-app\app\build\intermediates\pre-dexed\debug\classes-cda30f100d374afdf0d1c4ae44dd33f7c5aaa744.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\android-projects\android-custom-weather-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\xampp\htdocs\android-projects\android-custom-weather-app\app\build\intermediates\pre-dexed\debug\classes-938784c8cfe40c28482f31f2dc1d35f4d0a5cb8c.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\android-projects\android-weather-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\xampp\htdocs\android-projects\android-weather-app\app\build\intermediates\pre-dexed\debug\classes-01602510106ec40623b959c0fca18a540f1e86ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\paula.bastos\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="C:\xampp\htdocs\android-projects\android-custom-weather-app\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0-85e23206f642c5da3573e3e0c7f9ff9df30bb127.jar" />
+    </item>
+    <item
+        jar="C:\Users\paula.bastos\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="C:\xampp\htdocs\android-projects\android-custom-weather-app\app\build\intermediates\pre-dexed\debug\okio-1.2.0-0d810ba87f37a10ad2a0d700d850ef369e8ddfec.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\android-projects\android-custom-weather-app\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\xampp\htdocs\android-projects\android-custom-weather-app\app\build\intermediates\pre-dexed\debug\classes-673565846ed3524f7c529717d7748d92f0d5a1ee.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\android-projects\android-custom-weather-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\xampp\htdocs\android-projects\android-custom-weather-app\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-d55c916d1b1e1925dfa90a5f146c8450cc753335.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\android-projects\android-weather-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\xampp\htdocs\android-projects\android-weather-app\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-62bf61f452831230805f1ceee9fd575d61dcb0b7.jar" />
+    </item>
+
+</items>
